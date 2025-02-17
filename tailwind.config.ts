@@ -8,6 +8,9 @@ export default {
   ],
   theme: {
     extend: {
+      scale: {
+        '105': '1.05',
+      },
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
